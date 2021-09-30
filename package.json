@@ -1,0 +1,26 @@
+{
+  "name": "electron-setup-id",
+  "version": "1.0.0",
+  "description": "mirroring electron package for first created",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzak23/electron-setup-id.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzak23/electron-setup-id/issues"
+  },
+  "homepage": "https://github.com/rzak23/electron-setup-id#readme",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
