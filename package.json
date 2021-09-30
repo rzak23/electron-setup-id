@@ -27,6 +27,6 @@
     "bootstrap": "^5.1.1"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/electron-setup-id"
+    "registry":"https://npm.pkg.github.com/@rzak23/electron-setup-id"
   }
 }
