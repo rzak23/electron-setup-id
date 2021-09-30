@@ -1,5 +1,5 @@
 {
-  "name": "electron-setup-id",
+  "name": "@rzak23/electron-setup",
   "version": "1.0.0",
   "description": "mirroring electron package for first created",
   "main": "main.js",
@@ -11,7 +11,10 @@
     "url": "git+https://github.com/rzak23/electron-setup-id.git"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "rzak23",
+    "email": "rzak@restdx.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rzak23/electron-setup-id/issues"
@@ -22,5 +25,8 @@
   },
   "dependencies": {
     "bootstrap": "^5.1.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/rzak23"
   }
 }
