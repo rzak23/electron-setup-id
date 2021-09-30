@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rzak23/electron-setup-id.git"
+    "url": "git://github.com/rzak23/electron-setup-id.git"
   },
   "keywords": [],
   "author": {
