@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/rzak23/electron-setup-id#readme",
   "devDependencies": {
-    "electron": "^17.0.1"
+    "electron": "^18.0.1"
   },
   "dependencies": {
     "bootstrap": "^5.1.1"
