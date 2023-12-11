@@ -13,7 +13,7 @@
   "keywords": [],
   "author": {
     "name": "rzak23",
-    "email": "rzak@restdx.com"
+    "email": "rzak.dev@proton.me"
   },
   "license": "ISC",
   "bugs": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/rzak23/electron-setup-id#readme",
   "devDependencies": {
-    "electron": "^18.0.1"
+    "electron": "^28.0.0"
   },
   "dependencies": {
     "bootstrap": "^5.1.1"
